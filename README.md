@@ -57,7 +57,7 @@ Visualizador en tiempo real del log de bloqueos de UFW:
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/opsec-lab-toolkit.git
+git clone https://github.com/soporteblue/opsec-lab-toolkit.git
 cd opsec-lab-toolkit
 chmod +x *.sh
 sudo ./opsec_ghost.sh        # o ./opsec_detonation.sh / ./cyber_radar.sh
